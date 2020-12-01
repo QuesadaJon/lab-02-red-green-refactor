@@ -1,5 +1,6 @@
 const getName = (item) => {
-    return item.name
+    const { name } = item
+    return name;
 };
 
 module.exports = {
