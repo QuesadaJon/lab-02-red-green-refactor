@@ -1,5 +1,5 @@
 const copyAndPush = (array, newNumber) => {
-    return newArray = [...array, newNumber]
+    return [...array, newNumber]
 }
 module.exports = {
     copyAndPush
